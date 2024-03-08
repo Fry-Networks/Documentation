@@ -48,19 +48,19 @@ The ribbon/picture on the miner purchase page displays when the miner will be sh
 
 **How do i onboard my own device (BYOD) into FRY's ecosystem?**
 
-BYOD licenses costs $104USD total (50% in Algo and 50% in Fry)
+BYOD licenses costs $105USD total (50% in Algo and 50% in Fry)
 
 
 
 1. Set up an Algo account (Pera wallet or Defly) if you don't have one.
-2. Transfer 104$USD worth of Algo tokens into the wallet(from an exchange or other wallet)
+2. Transfer 105$USD worth of Algo tokens into the wallet(from an exchange or other wallet)
 
 (To avoid any purchase errors/issues, make sure to transfer an extra dollar or two)
 
 
 
 1. OPT-in to FRY Token in your wallet.
-2. Swap half of the algo (52$USD worth) for Fry tokens (you can perform a swap within Pera wallet directly)
+2. Swap half of the algo (52.5$USD worth) for Fry tokens (you can perform a swap within Pera wallet directly)
 
 Make sure to leave around 10 Algo to cover your miner’s proof of connectivity transaction fees. You can buy a BYOD License here :[ https://byod.fryfoundation.com/](https://byod.fryfoundation.com/) Once the purchase is complete, you will get a license number by email. 
 
