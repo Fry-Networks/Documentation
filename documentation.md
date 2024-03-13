@@ -110,6 +110,75 @@ To find out if it’s working, you can check your wallet activity and make sure 
 #### Where can I stake FRY?
 
 You can here: [ https://app.cometa.farm](https://app.cometa.farm/)  
+You can connect your Algo wallet. Then, you can decide between staking or farming, both of which reward you and support the sustainability of the Fry project. When farming during a specific period, you'll need to provide liquidity in Fry token and Algo to earn rewards. Staking involves locking up Fry tokens for a certain period to earn Fry tokens with a high interest rate, although the rate decreases if more people participate in staking or farming. 
+
+#### Why is the light on the pebble tracker red?
+The light on your Pebble tracker is red, it likely means your Pebble SIM card is running low on data. You'll receive an email notification reminding you to refill your data so that Pebble can continue streaming data, which could impact your rewards if the data runs out.
+
+#### Do we need Algo tokens in the wallet for transaction fees related to indoor/outdoor air quality?
+No, you don't need Algo tokens for transaction fees on IAQ or OAQ, but you do need them when trading your Fry tokens.
+
+#### Where can I trade fry token?     
+You can trade Fry tokens on the following platforms and on different blockchains: coininn.com, humble.sh, nonkyc.io, xeggex.com, pancakeswap.finance, quickswap.exchange, jug.ag, orca.so, traderjoexyz.com, tinyman.org, and app.pact.fi
+
+#### What apps do I need to start after a power outage ?
+None, everything starts automatically even after a restart
+
+#### I can't interact or withdraw my money or rewards from Cometa(cometa.farm), is there any solutions?
+Try to disconnect your wallet connect sessions in your mobile wallet settings and reconnect.
+
+#### Where do i find the api and app key of my Ecowitt weather station?
+To obtain the API and App Key for your Ecowitt weather station, follow these steps:
+Sign in to your Ecowitt.net Account: Go to the Ecowitt website and sign in to your account. If you haven't created an account yet, you'll need to register.
+
+Navigate to Device Management: Once logged in, look for an option like "Device Management" or "My Devices" in your account settings.
+
+Select your Weather Station: Within the Device Management section, locate your weather station from the list of devices associated with your account. Click on it to access its settings.
+
+Find API and App Key: Look for an option related to API access or developer tools within your weather station's settings. Ecowitt provides an option to generate an API key and App Key for accessing your weather station data.
+
+Generate Keys: Click on the option to generate the API and App Keys. Ecowitt should provide you with both keys once generated.
+
+Record your Keys: Make sure to copy and securely store both your API key and App Key. These keys are necessary for accessing your weather station data through third-party applications or services.
+
+Use responsibly: Remember that API keys are sensitive information. Do not share them publicly or with unauthorized individuals to ensure the security of your data.
+
+If you encounter any difficulties or can't find the API and App Key in your Ecowitt account settings, refer to the Ecowitt documentation or contact their support for assistance.
+#### Where do i find the api and app key of my Ambient weather station?
+To find the API and App Key for your Ambient Weather Station, you'll need to follow these steps:
+
+Sign in to your Ambient Weather Account: Go to the Ambient Weather website and sign in to your account. If you don't have an account, you'll need to create one.
+
+Navigate to the API section: Once logged in, navigate to your account settings or dashboard. Look for a section related to API access or developer tools. This is where you'll find the information you need.
+
+Generate API Key: In the API section, you should see an option to generate an API key. Click on it, and the website will provide you with both the API key and App Key.
+
+Make a note of your keys: Once generated, make sure to copy and securely store both your API key and App Key. These keys are essential for accessing your Ambient Weather Station data through third-party applications or services.
+
+Use responsibly: Keep in mind that API keys are sensitive information. Do not share them publicly or with unauthorized individuals to ensure the security of your data.
+
+If you encounter any issues or have trouble finding the API and App Key, you may need to refer to the Ambient Weather documentation or contact their support for assistance.
+
+#### I purchased a byod license and it took my algo payment and my fry payment but I never received my license in my email. What do I do? 
+Please open a ticket in our discord's help desk channel to let the team know, include your e-mail address, your wallet address and both transaction IDs of the payment. A member of our team will assist you.
+
+#### I purchased a byod license and it took my algo payment but it's not taking my fry payment and giving me an error. What do I do now? 
+Make sure you opted-in to fry token and have enough fry tokens to make the 52$usd payment as the price can be volatile and change the amount of fry tokens needed to make the payment. 
+Refresh the site and try again. 
+Make sure you are using a PC web browser and connect to your Pera or Defly mobile app on your phone by scanning the QR code on the PC web site. https://byod.fryfoundation.com/ 
+You can swap algo to fry directly from your mobile wallet.
+#### I submitted my weather/air quality/pebble registration over 4 days ago and I still don't see rewards
+Did you link them to Fry's ecosystem? 
+If it's a weather miner, make sure you linked your weather station here : https://weather.fryfoundation.com/
+If it's an air quality or Pebble miner, make sure you linked them here : https://air.fryfoundation.com/
+Once done, re-submit a new registration form.
+
+#### I forgot my windows password to unlock my miner and get into the Operating system. 
+If you forgot the miner's password that you initially set when setting up your windows/microsoft account, try these steps to unlock the device and get into the operating system: 
+https://www.top-password.com/blog/how-to-reset-windows-10-without-logging-in/
+
+#### Can i get a refund on my BYOD license?
+You cannot get a refund on your BYOD license. All crypto transactions are final and non-refundable.
 
 #### How do I cancel my order?
 
@@ -272,6 +341,28 @@ The 1.5x early bird multiplier will be removed at the two year mark of our token
 While installing the bandwidth/decibel/satellite softwares, it is required to input the 25 words seed phrase from the Algorand wallet (That is stored on your miner ONLY and not sent to FRY in any way, it is used strictly to be able to send proof of connectivity out from your miner, it is possible that this will change in the future but is required at the moment)
 
 We always recommend creating a fresh new wallet for any mining purposes.
+
+#### How to get an affiliate code ? 
+To get an affiliate code, you can use this [link](https://affiliate.fryfoundation.com/) and sign up for the affiliate program.
+
+#### How to get in touch for a partnership ?
+If you want to get in touch for a partnership, you can join our discord and open a help-desk ticket in the appropriate section and tell us about you and your partnership proposal.
+Please include some details about your company (if you have one) and what you are looking for in the partnership.
+
+#### Why isn't my miner showing up on the dashboard ? 
+The verification and dashboard are still in testnet right now, not everyone is able to see all their miners properly yet, we are well aware of the issue and our devs are working hard on it! 
+Please do not open a ticket for this. 
+Simply keep your eyes on ⁠⎾📢⏌announcements to stay up to date on when it will be resolved. Also please note we are all still earning UNverified rewards at the moment.
+
+
+#### Clarity about vm / vpns
+You are allowed to use Virtual Machines or VPNs to run the software. However, you are not allowed to use these for the recycle miner program.
+
+#### Which miners need to send proof of connectivity checks and which ones don't need to send?
+Bandwidth, decibel and satellite miners need to send proof of connectivity every hour to be able to get rewarded. If there's less than 24 poc checks in a 24 hour period, the rewards will be reduced. 
+
+Weather stations, cameras, air quality, energy miners, do not need to send poc checks at the moment. They may need to sometime in the future and we will update everyone if that is needed. 
+
 
 #### What kind of data is recorded with the decibel miners via the microphone? 
 
